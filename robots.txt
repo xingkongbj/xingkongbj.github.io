@@ -45,4 +45,4 @@ Disallow:
 
 User-agent: *
 Disallow:
-Sitemap: http://www.xingkongbj.com/sitemap.xml
+Sitemap: /sitemap.xml
